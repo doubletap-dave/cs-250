@@ -1,6 +1,3 @@
-Here’s the README update in GitHub markdown format based on the directions and questions provided:
-
-```markdown
 # SNHU Travel Project
 
 ### 🚀 Overview
@@ -40,6 +37,3 @@ A good team member fosters collaboration, communicates effectively, and remains 
 ---
 
 🎉 *Thank you for reviewing this project! Feel free to contribute or leave feedback.*  
-```
-
-Let me know if you'd like further adjustments! 🚀
